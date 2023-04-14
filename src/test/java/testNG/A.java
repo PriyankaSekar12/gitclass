@@ -29,6 +29,16 @@ public class A {
 			private void test6() {
 				System.out.println("test6");
 			}
+			@Test
+			private void test7() {
+				System.out.println("test7");
+			}
+
+			@Test
+			private void test8() {
+				System.out.println("test8");
+			}
+
 
 		}
 
