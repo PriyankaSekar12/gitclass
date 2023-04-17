@@ -38,6 +38,16 @@ public class A {
 			private void test8() {
 				System.out.println("test8");
 			}
+			@Test
+			private void test9() {
+				System.out.println("test9");
+			}
+			@Test
+			private void test10() {
+				System.out.println("test10");
+			}
+
+
 
 
 		}
